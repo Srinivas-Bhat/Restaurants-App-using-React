@@ -1,0 +1,82 @@
+[
+    {
+        "id": 0,
+        "image": "https://raw.githubusercontent.com/riteshf/files/main/restaurant1.jpeg",
+        "name": "Chaitanya Parathas",
+        "category": ["North India", "Punjabi", "Chinese", "Thalis Combo", "Beverages" ],
+        "rating": "4.3",
+        "deliveryTimings": "33 MINS",
+        "costForTwo": 200,
+        "offers": ["20% off | Use TRYNEW"]
+    },
+
+    {
+        "id": 1,
+        "image": "https://raw.githubusercontent.com/riteshf/files/main/restaurant2.jpeg",
+        "name": "MH 12 Pav Bhaji",
+        "category": ["Snacks", "Pizza", "Beverages", "Steet Food" ],
+        "rating": "4.0",
+        "deliveryTimings": "25 MINS",
+        "costForTwo": 250,
+        "offers": ["10% off | Use TRYNEW"]
+    },
+
+    {
+        "id": 2,
+        "image": "https://raw.githubusercontent.com/riteshf/files/main/restaurant3.jpeg",
+        "name": "Lunch Box",
+        "category": ["North India", "Punjabi", "Combo", "Biryani", "Healthy Food", "Jain", "Thalis"],
+        "rating": "4.2",
+        "deliveryTimings": "31 MINS",
+        "costForTwo": 200,
+        "offers": ["20% off | Use TRYNEW"]
+    },
+
+    {
+        "id": 3,
+        "image": "https://raw.githubusercontent.com/riteshf/files/main/restaurant4.jpeg",
+        "name": "The Hungry Hippe",
+        "category": ["Chinese", "Combo", "Italian", "Thai"],
+        "rating": "3.0",
+        "deliveryTimings": "38 MINS",
+        "costForTwo": 500,
+        "offers": ["40% off | Use TRYNEW"]
+    },
+
+    {
+        "id": 4,
+        "image": "https://raw.githubusercontent.com/riteshf/files/main/restaurant5.jpeg",
+        "name": "Ovenstory Pizzas",
+        "category": ["Pizzas", "Super-Saver"],
+        "rating": "4.3",
+        "deliveryTimings": "45 MINS",
+        "costForTwo": 600,
+        "offers": ["50% off | Use TRYNEW"]
+    },
+
+    {
+        "id": 5,
+        "image": "https://raw.githubusercontent.com/riteshf/files/main/restaurant6.jpeg",
+        "name": "Starbucks Coffee",
+        "category": ["Beverages", "Ice Cream"],
+        "rating": "4.2",
+        "deliveryTimings": "35 MINS",
+        "costForTwo": 400,
+        "offers": ["40% off | Use TRYNEW"]
+    },
+
+    {
+        "id": 6,
+        "image": "https://raw.githubusercontent.com/riteshf/files/main/restaurant7.jpeg",
+        "name": "Kitchen Stories",
+        "category": ["Beverages", "Biriyani", "Combos", "Home-Made", "Healthy Food"],
+        "rating": "4.9",
+        "deliveryTimings": "50 MINS",
+        "costForTwo": 500,
+        "offers": ["10% off | Use TRYNEW"]
+    }
+
+]
+
+
+              
